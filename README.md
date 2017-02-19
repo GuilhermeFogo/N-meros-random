@@ -1,2 +1,2 @@
-# N-meros-random
-Cria numeros aleatoriamnte
+# Numeros-random
+Cria numeros aleatoriamente
